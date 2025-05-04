@@ -13,7 +13,8 @@
     "productName": "OneApp",
     "win": {
       "target": "nsis"
-    }
+    },
+    "publish": null
   },
   "devDependencies": {
     "electron": "^29.0.0",
